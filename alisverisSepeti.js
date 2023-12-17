@@ -10,3 +10,4 @@ for (let i = 0; i < album.length; i++){
         console.log(`${album[i]} sepete eklendi.`);
     }
 }
+console.log(`Toplam Tutar: ${sonuc}`);
