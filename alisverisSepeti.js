@@ -2,3 +2,7 @@ let album = ["Future Nostaliga", "Recovery", "Back in Black", "Hal Hal", "Happie
 let fiyat = [20, 15, 30, 10, 25];
 let sonuc = 0;
 let sepet = [];
+
+for (let i = 0; i < album.length; i++){
+    
+}
