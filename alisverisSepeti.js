@@ -1,0 +1,1 @@
+let album = ["Future Nostaliga", "Recovery", "Back in Black", "Hal Hal", "Happier Than Ever", "Tuz Buz"];
